@@ -6,6 +6,7 @@
 	<artifactId>test_case</artifactId>
 <version>0.0.1-SNAPSHOT</version>
 <dectipiton>příklad do testu </decription>
+<name>test-case</name>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
