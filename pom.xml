@@ -5,6 +5,7 @@
 	<groupId>Petrnet</groupId>
 	<artifactId>test_case</artifactId>
 <version>0.0.1-SNAPSHOT</version>
+<dectipiton>příklad do testu </decription>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
